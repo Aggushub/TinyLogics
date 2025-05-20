@@ -1,3 +1,5 @@
+✅ Python Code for an Infinitely working calculator
+
 #Function to add two numbers
 def add(x,y):
     return x+y
@@ -47,4 +49,31 @@ def Calculator():
     print("Exiting Calculator. Goodbye")
 #Call the calculator function
 Calculator()
-            
+
+
+
+🖥️ Sample Output:
+
+
+Select operation:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+Enter choices (1/2/3/4): 1
+Enter the first number: 10
+Enter the second number: 5
+10.0 + 5.0 = 15.0
+Do you want to continue doing calculations? (yes/no): yes
+Enter choices (1/2/3/4): 3
+Enter the first number: 7
+Enter the second number: 6
+7.0 x 6.0 = 42.0
+Do you want to continue doing calculations? (yes/no): yes
+Enter choices (1/2/3/4): 4
+Enter the first number: 9
+Enter the second number: 0
+9.0 / 0.0 = Error Division by zero is not allowed
+Do you want to continue doing calculations? (yes/no): no
+Exiting Calculator. Goodbye
+
