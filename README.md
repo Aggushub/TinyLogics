@@ -21,6 +21,9 @@ Here are some of the mini-programs you'll find in this collection:
 - 📧 **Email Sender** — A Python script to send emails via SMTP
 - 🌐 **Internet Speed Tester** — Check your network speed using Python
 - 🔢 **Binary to Decimal Converter** — A logic to convert binary numbers
+- 🕸  **URL Shortner** - a simple python program to shorten very long URLs
+
+-> Future scope
 - 🧵 **String Reversal** — Quick logic to reverse any string
 - 🧩 **Palindrome Checker** — Verify if a given string is a palindrome
 - 📊 **Sorting Algorithms** — Bubble sort, insertion sort, and more
