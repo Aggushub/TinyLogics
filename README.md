@@ -22,7 +22,7 @@ Here are some of the mini-programs you'll find in this collection:
 - 🌐 **Internet Speed Tester** — Check your network speed using Python
 - 🔢 **Binary to Decimal Converter** — A logic to convert binary numbers
 - 🕸  **URL Shortner** - a simple python program to shorten very long URLs
-
+- 🧾 **Number Stream** - Displays 1 to n in one line.
 -> Future scope
 - 🧵 **String Reversal** — Quick logic to reverse any string
 - 🧩 **Palindrome Checker** — Verify if a given string is a palindrome
