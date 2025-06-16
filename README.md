@@ -23,6 +23,8 @@ Here are some of the mini-programs you'll find in this collection:
 - 🔢 **Binary to Decimal Converter** — A logic to convert binary numbers
 - 🕸  **URL Shortner** - a simple python program to shorten very long URLs
 - 🧾 **Number Stream** - Displays 1 to n in one line.
+- 🥈 **Second Highest** - Displays the second highest element.
+  
 -> Future scope
 - 🧵 **String Reversal** — Quick logic to reverse any string
 - 🧩 **Palindrome Checker** — Verify if a given string is a palindrome
