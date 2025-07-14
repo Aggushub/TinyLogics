@@ -24,6 +24,7 @@ Here are some of the mini-programs you'll find in this collection:
 - 🕸  **URL Shortner** - a simple python program to shorten very long URLs
 - 🧾 **Number Stream** - Displays 1 to n in one line.
 - 🥈 **Second Highest** - Displays the second highest element.
+- 🛸 **Alien Number** — Computes a number by summing the a-th and b-th prime numbers, then subtracting 1.(TCS Qn.) 
   
 -> Future scope
 - 🧵 **String Reversal** — Quick logic to reverse any string
