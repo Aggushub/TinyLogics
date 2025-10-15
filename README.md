@@ -8,7 +8,7 @@ Welcome to **TinyLogics** — a growing collection of small, fun, and curious pr
 
 **TinyLogics** is my personal sandbox of code — a place where I experiment, build, and learn. These aren't big projects or polished apps, but rather bite-sized programs that helped me understand core concepts, solve logic problems, or just tinker around with code.
 
-Whether it’s a quick C snippet, a Java logic challenge, or a mini script in Python — if I learned something from it, it probably ended up here.
+Whether it’s a quick Python snippet, a Java logic challenge, or a mini script in Python — if I learned something from it, it probably ended up here.
 
 ---
 
@@ -21,10 +21,11 @@ Here are some of the mini-programs you'll find in this collection:
 - 📧 **Email Sender** — A Python script to send emails via SMTP
 - 🌐 **Internet Speed Tester** — Check your network speed using Python
 - 🔢 **Binary to Decimal Converter** — A logic to convert binary numbers
-- 🕸  **URL Shortner** - a simple python program to shorten very long URLs
-- 🧾 **Number Stream** - Displays 1 to n in one line.
-- 🥈 **Second Highest** - Displays the second highest element.
-- 🛸 **Alien Number** — Computes a number by summing the a-th and b-th prime numbers, then subtracting 1.(TCS Qn.) 
+- 🕸  **URL Shortner** — a simple python program to shorten very long URLs
+- 🧾 **Number Stream** — Displays 1 to n in one line.
+- 🥈 **Second Highest** — Displays the second highest element.
+- 🛸 **Alien Number** — Computes a number by summing the a-th and b-th prime numbers, then subtracting 1.(TCS Qn.)
+- 🧠 Segregate by Type — Finds the type of each element in a list and separates them into individual lists. (TCS Interview Qn.)
   
 -> Future scope
 - 🧵 **String Reversal** — Quick logic to reverse any string
@@ -48,7 +49,7 @@ Here are some of the mini-programs you'll find in this collection:
 
 You'll find code in a mix of:
 
-* C  
+* Javascript  
 * Java  
 * Python  
 * (and maybe more as I explore!)
