@@ -72,7 +72,8 @@ You'll find code in a mix of:
 
 * Javascript  
 * Java  
-* Python  
+* Python
+* Shell
 * (and maybe more as I explore!)
 
 ---
