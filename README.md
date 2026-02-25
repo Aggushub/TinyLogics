@@ -16,16 +16,37 @@ Whether it’s a quick Python snippet, a Java logic challenge, or a mini script 
 
 Here are some of the mini-programs you'll find in this collection:
 
-- 🎲 **Guess My Number** — A simple number guessing game
-- 🧮 **Calculator** — A basic calculator that handles arithmetic operations
-- 📧 **Email Sender** — A Python script to send emails via SMTP
-- 🌐 **Internet Speed Tester** — Check your network speed using Python
-- 🔢 **Binary to Decimal Converter** — A logic to convert binary numbers
-- 🕸  **URL Shortner** — a simple python program to shorten very long URLs
-- 🧾 **Number Stream** — Displays 1 to n in one line.
-- 🥈 **Second Highest** — Displays the second highest element.
-- 🛸 **Alien Number** — Computes a number by summing the a-th and b-th prime numbers, then subtracting 1.(TCS Qn.)
-- 🧠 Segregate by Type — Finds the type of each element in a list and separates them into individual lists. (TCS Interview Qn.)
+Here are some of the mini-programs you'll find in this collection:
+
+1. 🎲 **Guess My Number** — A simple number guessing game
+
+2. 🧮 **Calculator** — A basic calculator that handles arithmetic operations
+
+3. 📧 **Email Sender** — A Python script to send emails via SMTP
+
+4. 🌐 **Internet Speed Tester** — Check your network speed using Python
+
+5. 🔢 **Binary to Decimal Converter** — A logic to convert binary numbers
+
+6. 🕸 **URL Shortner** — A simple Python program to shorten very long URLs
+
+7. 🧾 **Number Stream** — Displays numbers from 1 to n in one line
+
+8. 🥈 **Second Highest** — Displays the second highest element in a list
+
+9. 🛸 **Alien Number** — Computes a number by summing the a-th and b-th prime numbers, then subtracting 1 (TCS Question)
+
+10. 🧠 **Segregate by Type** — Finds the type of each element in a list and separates them into individual lists (TCS Interview Question)
+
+11. 🌳 **Tree Traversal** — Implements inorder, preorder, and postorder traversal of a binary tree
+
+12. 💬 **Random Quote Generator** — Displays random quotes from a dataset
+
+13. 📋 **Task Manager** — A simple task management system to add, remove, and track tasks
+
+14. 🤖 **Chat Bot** — A basic chatbot that responds to user input using predefined logic.
+
+---
   
 -> Future scope
 - 🧵 **String Reversal** — Quick logic to reverse any string
