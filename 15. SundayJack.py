@@ -1,5 +1,5 @@
 def count_sundays(start_day, total_days):
-    days = ["mon""tue""wed""thu""fri""sat""sun"]
+    days = ["mon","tue","wed","thu","fri","sat","sun"]
     
     # Map start day to its index
     start_index = days.index(start_day.lower())
