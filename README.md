@@ -12,9 +12,9 @@ Whether it’s a quick Python snippet, a Java logic challenge, or a mini script 
 
 ---
 
-## 📂 Projects in This Repo
 
-Here are some of the mini-programs you'll find in this collection:
+
+## 📂 Projects in This Repo
 
 Here are some of the mini-programs you'll find in this collection:
 
@@ -34,7 +34,7 @@ Here are some of the mini-programs you'll find in this collection:
 
 8. 🥈 **Second Highest** — Displays the second highest element in a list
 
-9. 🛸 **Alien Number** — Computes a number by summing the a-th and b-th prime numbers, then subtracting 1 (TCS Question)
+9. 🛸 **Alien Number** — Computes a number by summing the a-th and b-th prime numbers, then subtracting 1 (TCS NQT Coding Question)
 
 10. 🧠 **Segregate by Type** — Finds the type of each element in a list and separates them into individual lists (TCS Interview Question)
 
@@ -44,7 +44,23 @@ Here are some of the mini-programs you'll find in this collection:
 
 13. 📋 **Task Manager** — A simple task management system to add, remove, and track tasks
 
-14. 🤖 **Chat Bot** — A basic chatbot that responds to user input using predefined logic.
+14. 🤖 **Chat Bot** — A basic chatbot that responds to user input using predefined logic
+
+15. 🌞 **Sunday Jack** — Counts how many Sundays occur within N days from a given starting weekday
+
+16. 🔐 **Cryptic Number** — Returns numbers in range [L, R] that are non-palindrome, have unique digits, divisible by 7, and not divisible by 5 (TCS TAG Question)
+
+17. 📚 **Gupta Masterclass Admission** — Counts students scoring strictly above subject average in at least one subject (TCS TAG Question)
+
+18. 🏸 **Badminton Court Booking System** — Designs an OOP system to book Singles (2) and Doubles (1) courts with availability check and unique ticket ID generation (Experion Coding Question)
+
+19. 🔤 **Vowels in a String** — Counts and analyzes vowels in a given word (Magpii Coding Qn.)
+
+20. 💡 **Street Lamp Glow** — Simulates lamp activation based on intensity difference ≤ K and returns final total glow (Infosys SP Question)
+
+21. 🔤 **String Inversions** — Counts lexicographical inversion pairs (i < j and arr[i] > arr[j]) in a string array (Infosys SP Question)
+
+22. ⛽ **Gas Station Circular Tour** — Finds starting petrol pump index to complete circular route or returns -1 if impossible (Accenture Question)
 
 ---
   
